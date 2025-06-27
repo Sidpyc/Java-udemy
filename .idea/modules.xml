@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-udemy.iml" filepath="$PROJECT_DIR$/.idea/Java-udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/TernaryOps/TernaryOps.iml" filepath="$PROJECT_DIR$/TernaryOps/TernaryOps.iml" />
       <module fileurl="file://$PROJECT_DIR$/switch-statements/switch-statements.iml" filepath="$PROJECT_DIR$/switch-statements/switch-statements.iml" />
     </modules>
